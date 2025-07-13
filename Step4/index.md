@@ -58,7 +58,7 @@ This exercise aims to help you:
 
 7. Submit your webpage link
 
-    Submit the link to your webpage in Step 4 on the HYF student portal. 
+    Submit your webpage link under Step 4 in the Canvas titled **Submit your tasks** in the `#intro-to-digital` channel.
 
 # How to check your work 
 A volunteer will review your submission and check that it meets the acceptance criteria. They will give you feedback on your submission and help you make any changes needed to meet the criteria.
@@ -67,4 +67,4 @@ Here are the criteria you need to meet:
 
 - [ ] You have successfully hosted your Event Invite webpage on GitHub Pages.
 - [ ] The webpage link includes your name.
-- [ ] You have submitted the webpage link on the CYF student portal.
+- [ ] You have submitted the webpage link as requested.

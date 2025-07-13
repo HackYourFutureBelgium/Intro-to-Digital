@@ -68,7 +68,7 @@ Software for Lawyers Ltd makes case management software. Their software helps la
 
 6. Submit the Google Doc link
    
-    Submit the link to the Google Doc in Step 2 on the [HYF Student portal.](link)
+     Submit your Google Doc link under Step 2 in the Canvas titled **Submit your tasks** in the `#intro-to-digital` channel.
 
 
 # How to check your work
@@ -80,4 +80,4 @@ Here are the criteria you need to meet:
 - [ ] You have saved the cover letter in a Google Docs document
 - [ ] You have added your name to the document’s file name
 - [ ] You have made the document accessible to anyone with the link
-- [ ] You have submitted the link to the document on the HYF Student portal
+- [ ] You have submitted the link to the document as requested. 

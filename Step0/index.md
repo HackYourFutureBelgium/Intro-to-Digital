@@ -13,6 +13,7 @@ At HYF, we use [Slack](https://slack.com/) as our main platform to communicate w
 
     `💡Note` Search the web for how to update your Slack profile
 3. Introduce yourself on `#into-to-digital` channel 
+   
    Post a message introducing yourself.
 
 4. Take a screenshot of your introduction
@@ -21,7 +22,7 @@ At HYF, we use [Slack](https://slack.com/) as our main platform to communicate w
 
 5. Submit your screenshot 
    
-    Submit your screenshot in Step 0 on the [HYF Student portal.](link)
+   Submit your screenshot under Step 0 in the Canvas titled **Submit your tasks** in the `#intro-to-digital` channel.
 
 # How to check your work 
 
@@ -33,4 +34,4 @@ Here are the criteria you need to meet:
 - [ ] You have updated your Slack profile name to match your name on the HYF student portal so we can recognise you.
 - [ ] You have posted a message introducing yourself in the `#into-to-digital` channel.
 - [ ] You have taken a screenshot of your introduction in the channel.
-- [ ] You have uploaded the screenshot to the HYF student portal.
+- [ ] You have uploaded the screenshot as requested.

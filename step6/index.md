@@ -14,7 +14,7 @@ To join the program, you need a score of 90 or higher on the Duolingo English Pr
   
 3. Upload your result
 
-Upload your screenshot in Step 6 on the HYF student portal. 
+    Upload your screenshot under Step 6 in the Canvas titled **Submit your tasks** in the `#intro-to-digital` channel.
 
 # How to check your work 
 A volunteer will review your submission and check that it meets the acceptance criteria. They will give you feedback on your submission and help you make any changes needed to meet the criteria.
@@ -22,4 +22,4 @@ A volunteer will review your submission and check that it meets the acceptance c
 Here are the criteria you need to meet:
 - [ ] You have taken the Duolingo Practice Test.
 - [ ] Your score is 90 or higher, which is equivalent to level B2 or above.
-- [ ] You have uploaded a screenshot of your Duolingo test result.
+- [ ] You have uploaded a screenshot of your Duolingo test result as requested.

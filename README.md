@@ -10,12 +10,13 @@ During the months when ITD is active, we run weekly drop-in sessions on Sundays 
 
 
 ## Steps 
-It’s important to follow the steps in order - you won’t be able to access the next submission link until you’ve completed the current one.
+It’s strongly recommended to follow the steps in order. 
+<!-- you won’t be able to access the next submission link until you’ve completed the current one. -->
 
-- [ ] [Join HackYourFuture Intro to Digital Slack channel](/Step0/index.md) 
-- [ ] [Use Slack and search engines](/Step1%20/index.md)
-- [ ] [Make a Cover Letter with Generative AI](/Step2/index.md)
-- [ ] [Evaluate data with Google Sheets](/Step3/index.md)
-- [ ] [Build four simple projects using HTML and CSS in Khan Academy](/Step4/index.md)
-- [ ] [Build a personal home page with CodePen](/Step5/index.md)
-- [ ] [Check if your English CEFR level is B1 or above](/step6/index.md)
+- [ ] [Join HackYourFuture Intro to Digital Slack channel](/Intro-to-Digital/Step0/index.md) 
+- [ ] [Use Slack and search engines](/Intro-to-Digital/Step1%20/index.md)
+- [ ] [Make a Cover Letter with Generative AI](/Intro-to-Digital/Step2/index.md)
+- [ ] [Evaluate data with Google Sheets](/Intro-to-Digital/Step3/index.md)
+- [ ] [Build four simple projects using HTML and CSS in Khan Academy](/Intro-to-Digital/Step4/index.md)
+- [ ] [Build a personal home page with CodePen](/Intro-to-Digital/Step5/index.md)
+- [ ] [Check if your English CEFR level is B1 or above](/Intro-to-Digital/step6/index.md)

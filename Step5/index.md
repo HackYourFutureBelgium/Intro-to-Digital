@@ -48,7 +48,7 @@ Then the HTML is valid. </pre>
 
 5. Submit your CodePen page link
 
-    Submit the link to your CodePen page in Step 5 on the HYF student portal. 
+    Submit your CodePen page link under Step 5 in the Canvas titled **Submit your tasks** in the `#intro-to-digital` channel.
 
 `💡 Tip` Your work is not judged on aesthetics in this project. We are interested in code correctness and specification compliance.
 

@@ -18,7 +18,7 @@ This exercise aims to help you:
     `💡 Search the Web` How to print a webpage to a PDF file using a browser
 3. Submit your PDF 
    
-   Submit your screenshot in Step 0 on the [HYF Student portal.](link)
+    Submit your PDF under Step 1 in the Canvas titled **Submit your tasks** in the `#intro-to-digital` channel.
 
 # How to check your work 
 
@@ -29,4 +29,4 @@ Here are the criteria you need to meet:
 - [ ] You have submitted your answers in the “Slack and Search Engine Exercise” and scored at least 16/20.
 - [ ] You have saved your Result Page (Score Summary Page) as a PDF file. 
 - [ ] The PDF file includes your name, your score, and your answers.
-You have uploaded the PDF file to the CYF Course Platform.
+- [ ] You have uploaded the PDF file as requested.

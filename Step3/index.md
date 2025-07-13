@@ -23,7 +23,7 @@ This exercise aims to:
 
 4. Submit the Google Sheet link
    
-    Submit the link to the Google Sheet in Step 2 on the [HYF Student portal.](link)
+    Submit the link to your Google Sheet in Step 3 in the Canvas titled **Submit your tasks** in the `#intro-to-digital` channel.
 
 
 # How to check your work 
@@ -41,4 +41,4 @@ Here are the criteria you need to meet:
 - [ ] You have added data validation 
 - [ ] You have sorted data
 - [ ] You have made the document accessible to anyone with the link
-- [ ] You have submitted the link to the document on the HYF Student portal
+- [ ] You have submitted the link to the document as requested. 
