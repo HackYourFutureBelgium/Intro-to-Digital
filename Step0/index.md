@@ -1,9 +1,9 @@
 # Overview
 At HYF, we use [Slack](https://slack.com/) as our main platform to communicate with peers, coaches and the whole HackYourFuture community about classes, homework, community events, etc. 
 # What should you do? 
-1. To join the HYF Slack `#into-to-digital` channel
+1. To join the HYF Slack `#intro-to-digital` channel
 
-    Join the `#into-to-digital` channel by clicking the invitation link on your mail. 
+    Join the `#intro-to-digital` channel by clicking the invitation link on your mail. 
 
     `📝Note` Read the [Slack tutorial](https://slack.com/intl/en-gb/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide) to get started on Slack.
 
@@ -12,7 +12,7 @@ At HYF, we use [Slack](https://slack.com/) as our main platform to communicate w
     Please use a consistent, professional name on Slack and add a consistent profile picture. We ask this so we can recognise each other. You don’t have to share any information you are not comfortable with.
 
     `💡Note` Search the web for how to update your Slack profile
-3. Introduce yourself on `#into-to-digital` channel 
+3. Introduce yourself on `#intro-to-digital` channel 
    
    Post a message introducing yourself.
 
